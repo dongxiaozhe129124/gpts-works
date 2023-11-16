@@ -45,7 +45,7 @@ export default () => {
             </li>
             <li className="mx-4">
               <a
-                href="https://github.com/all-in-aigc/gpts-works"
+                href="https://github.com/dongxiaozhe129124/gpts-works"
                 target="_blank"
                 className="hover:text-[#2752f4]"
               >
@@ -54,7 +54,7 @@ export default () => {
             </li>
             <li className="mx-4">
               <a
-                href="https://x.com/idoubicc"
+                href="https://twitter.com/YUEDONGLIN18793"
                 target="_blank"
                 className="hover:text-[#2752f4]"
               >
@@ -63,7 +63,7 @@ export default () => {
             </li>
           </ul>
         </div>
-        <a href="https://www.buymeacoffee.com/idoubi" target="_blank">
+        <a href="https://www.buymeacoffee.com/dongxiaozhe" target="_blank">
           <svg
             width="27"
             height="39"
